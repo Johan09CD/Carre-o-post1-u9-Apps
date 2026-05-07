@@ -50,15 +50,17 @@ CartViewModelTest > calculateTotal returns 0 for empty list PASSED
 
 ## Capturas
 
-### GREEN — 4 tests en verde
+### GREEN — 4 tests en verde en la terminal
 ![Green](capturas/captura-green.png)
 
-### GREEN - despues de los 4 test en verde
+### GREEN - despues de los 4 test en verde en la interfaz
 ![Green despues](capturas/captura-refactor-1.png)
 
-### REFACTOR — 100% exitoso tras refactorizar
+### REFACTOR — 100% exitoso tras refactorizar en la terminal
 ![Refactor](capturas/captura-refactor-2.png)
 
+### REFACTOR — 100% exitoso tras refactorizar en la interfaz
+![Refactor despues](capturas/captura-refactor-3.png)
 ---
 
 ## Estructura del proyecto
